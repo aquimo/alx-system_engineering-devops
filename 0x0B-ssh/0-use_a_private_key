@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Allows ALX to connect to server using the private key with user ubuntu
-ssh -i ~/.ssh/id_rsa ubuntu@3.90.84.115
+# using ssh to connect to a server
+
+ssh ubuntu -i ~/.ssh/school
