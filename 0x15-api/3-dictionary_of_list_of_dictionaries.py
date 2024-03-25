@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Script that, using this REST API, for a given employee ID, 
-returns info about his/her 
+Script that, using this REST API, for a given employee ID,
+returns info about his/her
 TODO list progress
 and export data in the JSON format.
 """

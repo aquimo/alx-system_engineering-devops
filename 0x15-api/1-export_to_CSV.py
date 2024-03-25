@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-A ccript that, uses a REST API, for a given employee ID, returns inf about 
+A ccript that, uses a REST API, for a given employee ID, returns inf about
 his/her TODO list progress
 exporting data in the CSV format.
 """
