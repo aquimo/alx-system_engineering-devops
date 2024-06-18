@@ -24,6 +24,6 @@ def number_of_subscribers(subreddit):
         return 0
 
 # Example usage
-if _name_ == "_main_":
+if __name__ == "__main__":
     subreddit = "python"
     print(f"Number of subscribers in r/{subreddit}: {number_of_subscribers(subreddit)}")
